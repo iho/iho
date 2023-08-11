@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  [![Hits](https://u8views.com/api/v1/github/profiles/4000375/views/day-week-month-total-count.svg)](https://u8views.com/github/iho) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
